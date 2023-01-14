@@ -1,0 +1,6 @@
+{
+  "version": "2",
+  "remote": {
+    "https://cdn.skypack.dev/-/eventmit@v2.0.2-q11mJrZ7k12BXKKiEI21/dist=es2019,mode=imports/optimized/eventmit.js": "d851137e9b769075e30590f1858571a42ff923bf545b8735d4a9f02c880b42e4"
+  }
+}
